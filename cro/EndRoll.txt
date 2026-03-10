@@ -1,0 +1,32 @@
+Size   Type  Access Symbol                                                                                                                                                                           Address      
+---------------------------------------------------------------
+8      Code  RO     <EXTERNAL>gfl2::heap::Manager::GetHeapByHeapId                                                                                                                                   @ 0x180   
+8      Code  RO     <EXTERNAL>GameSys::GameProc::GameProc                                                                                                                                            @ 0x190   
+8      Code  RO     <EXTERNAL>gfl2::heap::GflHeapFreeMemoryBlock                                                                                                                                     @ 0x198   
+8      Code  RO     <EXTERNAL>NetAppLib::System::ResourceManager::GetResourceBuffer                                                                                                                  @ 0x1a8   
+8      Code  RO     <EXTERNAL>app::ui::UIView::SetLayoutTransferArea                                                                                                                                 @ 0x1b0   
+8      Code  RO     <EXTERNAL>NetAppLib::Message::MessageUtility::GetData                                                                                                                            @ 0x1c0   
+8      Code  RO     <EXTERNAL>app::ui::UIView::Create2D                                                                                                                                              @ 0x1c8   
+64     Code  RO     App::EndRoll::EndRollProc::EndFunc                                                                                                                                               @ 0x378   
+28     Code  RO     _ZN3App7EndRoll11EndRollProc7EndFuncEPN4gfl24proc7ManagerE                                                                                                                       @ 0x378   
+40     Code  RO     App::EndRoll::EndRollProc::InitFunc                                                                                                                                              @ 0x3f4  
+120    Code  RO     _ZN3App7EndRoll11EndRollProc8InitFuncEPN4gfl24proc7ManagerE                                                                                                                      @ 0x3f4  
+44     Code  RO     App::EndRoll::EndRollProc::EndRollProc                                                                                                                                           @ 0x4b8  
+0      Code  RO     _ZN3App7EndRoll11EndRollProcC1EPNS0_9APP_PARAME                                                                                                                                  @ 0x4b8  
+40     Code  RO     App::EndRoll::EndRollProc::~EndRollProc                                                                                                                                          @ 0x4e4  
+16     Code  RO     _ZN3App7EndRoll11EndRollProcD0Ev                                                                                                                                                 @ 0x4e4  
+40     Code  RO     App::EndRoll::EndRollProc::~EndRollProc                                                                                                                                          @ 0x51c  
+12     Code  RO     _ZN3App7EndRoll11EndRollProcD1Ev                                                                                                                                                 @ 0x51c  
+276    Code  RO     App::EndRoll::View::EndRollTheEndView::_Create2DOneLayout                                                                                                                        @ 0x550  
+16     Code  RO     _ZN3App7EndRoll4View17EndRollTheEndView18_Create2DOneLayoutEPN9NetAppLib6System19ApplicationWorkBaseEijjN3app4util7G2DUtil18SETUP_DISPLAY_TYPEEPNS3_7Message14MessageUtilityEj   @ 0x550  
+40     Code  RO     App::EndRoll::System::EndRollWork::EndRollWork                                                                                                                                   @ 0xc34  
+16     Code  RO     _ZN3App7EndRoll6System11EndRollWorkC1Ev                                                                                                                                          @ 0xc34  
+20     Code  RO     App::EndRoll::System::EndRollBuilder::EndRollBuilder                                                                                                                             @ 0xcec  
+4      Code  RO     _ZN3App7EndRoll6System14EndRollBuilderC1EPNS1_11EndRollWorkE                                                                                                                     @ 0xcec  
+68     Code  RO     App::EndRoll::System::EndRollApplicationSystem::Build                                                                                                                            @ 0x1218  
+160    Code  RO     _ZN3App7EndRoll6System24EndRollApplicationSystem5BuildEPNS1_11EndRollWorkEPNS1_14EndRollBuilderE                                                                                 @ 0x1218  
+84     Code  RO     App::EndRoll::System::EndRollApplicationSystem::EndRollApplicationSystem                                                                                                         @ 0x1394  
+52     Code  RO     _ZN3App7EndRoll6System24EndRollApplicationSystemC1Ev                                                                                                                             @ 0x1394  
+4      Code  RO     nnroControlObject_                                                                                                                                                               @ 0x2ffc 
+76     Code  RO     PTR_~EndRollProc_00004394                                                                                                                                                        @ 0x4394 
+33     Code  RO     PTR_s_Node_DagNode_ResourceNode_00005070                                                                                                                                         @ 0x5070 
