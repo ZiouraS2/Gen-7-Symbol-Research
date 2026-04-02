@@ -1,0 +1,24 @@
+Size   Type  Access Symbol                                           Address      
+---------------------------------------------------------------
+8      Code  RO     <EXTERNAL>Savedata::Misc::GetGold                @ 0x3d8   
+8      Code  RO     <EXTERNAL>Savedata::JoinFestaDataSave::GetCoin   @ 0x400  
+8      Code  RO     <EXTERNAL>itemman::ITEM_MANAGER::GetParam        @ 0x478  
+112    Code  RO     App::Shop::ShopFrame::CheckBuyError              @ 0x276c 
+68     Code  RO     _ZN3App4Shop9ShopFrame13CheckBuyErrorEv          @ 0x276c 
+24     Code  RO     App::Shop::ShopFrame::CreateShopTypeData         @ 0x2ed4 
+8      Code  RO     _ZN3App4Shop9ShopFrame18CreateShopTypeDataEv     @ 0x2ed4 
+4      Data  RO     bp_shop_data_table_PTR                           @ 0x3134 
+36     Data  RO     bp_wazaoboe_shop_data_table_PTR                  @ 0x313c 
+4      Code  RO     nnroControlObject_                               @ 0x4638 
+4      Data  RO     App::Shop::bp_wazaoboe_shop_itemnum_table        @ 0x52d2 
+0      Data  RO     _ZN3App4Shop30bp_wazaoboe_shop_itemnum_tableE    @ 0x52d2 
+7      Data  RO     App::Shop::bp_shop_itemnum_table                 @ 0x52d6 
+0      Data  RO     _ZN3App4Shop21bp_shop_itemnum_tableE             @ 0x52d6 
+1151   Data  RO     App::Shop::shop_itemnum_table                    @ 0x52dd 
+5996   Data  RO     _ZN3App4Shop18shop_itemnum_tableE                @ 0x52dd 
+112    Data  RO     App::Shop::shop_data_table                       @ 0x9a1c 
+0      Data  RO     _ZN3App4Shop15shop_data_tableE                   @ 0x9a1c 
+28     Data  RO     App::Shop::bp_shop_data_table                    @ 0x9a8c 
+0      Data  RO     _ZN3App4Shop18bp_shop_data_tableE                @ 0x9a8c 
+39592  Data  RO     App::Shop::bp_wazaoboe_shop_data_table           @ 0x9aa8 
+39592  Data  RO     _ZN3App4Shop27bp_wazaoboe_shop_data_tableE       @ 0x9aa8 
